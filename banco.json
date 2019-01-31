@@ -1,0 +1,115 @@
+{
+    "serie": [
+        {
+            "id": 1,
+            "name": "Agents of S.H.I.E.L.D",
+            "img": "https://images3.alphacoders.com/888/thumb-1920-888494.jpg",
+            "resumo": "O agente Phil Coulson retorna à organização mundial S.H.I.E.L.D. e organiza um pequenoe altamente treinado grupo de agentes para resolver casos que ainda não foram classificados - tudo que é novo, estranho e desconhecido. O time consiste do correto agente Grant Ward, expert em combate e espionagem, da piloto e especialista em artes marciais agente Melinda May e dos cientistas brilhantes mas introvertidos agente Leo Fitz e agente Jemma Simmons. A eles se junta uma recruta civil, a hacker Skye.",
+            "personagens": [
+                {
+                    "id": 1,
+                    "ator": "",
+                    "personagem": ""
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Brooklyn Nine-Nine",
+            "img": "https://www.clubconectat.com.br/wp-content/uploads/2018/12/Brooklyn-Nine-Nine-Club-Conectat.jpg",
+            "resumo": "Sitcom policial criada por Michael Schur e Dan Goor, ambos de Parks and Recreation. A série é estrelada por Andy Samberg, ex-integrante do humorístico Saturday Night Live, e Andre Braugher (Men of a Certain Age, Last Resort).Samberg é Jake Peralta, detetive imaturo que consegue realizar um bom trabalho mas é incapaz de obedecer ordens ou seguir regras. Até que chega na delegacia o capitão Ray Holt (Braugher), um comandante que está determinado a colocar ordem no local. Holt e Peralta divergem em quase tudo. Enquanto Peralta tenta provar seu valor, Holt sente prazer em vê-lo falhar. A parceira de Peralta é a detetive Amy Santiago (Melissa Fumero, de Gossip Girl), uma mulher metida a durona que cresceu na companhia de sete irmãos, todos policiais. Os dois competem para ver quem consegue solucionar o maior número de casos, o que leva à inevitável tensão sexual."
+        },
+        {
+            "id": 3,
+            "name": "The Big Bang Theory",
+            "img": "https://images8.alphacoders.com/783/thumb-1920-783318.jpg",
+            "resumo": "Leonard (Johnny Galecki) e Sheldon (Jim Parsons) são dois brilhantes físicos que dividem o mesmo apartamento. Suas vidas se complicam quando uma linda jovem, porém pouco inteligente, Penny (Kaley Cuoco), se muda para o apartamento da frente."
+        },
+        {
+            "id": 4,
+            "name": "Riverdale",
+            "img": "https://images3.alphacoders.com/825/thumb-1920-825168.jpg",
+            "resumo": "Riverdale traz uma abordagem subversiva de Archie, Betty, Veronica, Jughead, Josie e seus amigos, explorando o surrealismo de uma pequena cidade e seus curiosos habitantes. A história começa quando a cidade se recupera de uma trágica perda, o que leva Archie a pensar mais seriamente a respeito de seu futuro. Com isto, ele embarca em uma jornada em busca de realizar o seu sonho de tornar um grande músico; mas cumprir essa missão não será nada fácil, enquanto Archie ainda precisa lidar com sua agitada vida amorosa, dividido entre Betty e Veronica."
+        },
+        {
+            "id": 5,
+            "name": "Dark",
+            "img": "https://jerimumgeek.oportaln10.com.br/wp-content/uploads/2018/06/2-temporada-de-Dark.jpg",
+            "resumo": "A história acompanha quatro diferentes famílias que vivem em uma pequena cidade alemã. Suas vidas pacatas são completamente atormentadas quando duas crianças desaparecem misteriosamente e os segredos obscuros das suas famílias começam a ser desvendados."
+        },
+        {
+            "id": 6,
+            "name": "Grimm",
+            "img": "https://images5.alphacoders.com/662/thumb-1920-662529.jpg",
+            "resumo": "'Grimm' é uma nova série dramática inspirada pelos clássicos contos de fada dos irmãos Grimm. Nick Burkhardt (David Guintoli, de Turn the Beat Around) pensou estar preparado para a dura realidade da vida de detetive de homicídios até começar a ver coisas que não podia explicar. Quando sua tia Marie (participação especial de Kate Burton, de Grey’s Anatomy) retorna, a vida de Nick vira de cabeça para baixo. Ela lhe revela que os dois são descendentes de um esquadrão de caçadores de elite, os Grimms, que lutam para manter a humanidade a salvo das criaturas sobrenaturais do mundo."
+        },
+        {
+            "id": 7,
+            "name": "Lethal Weapon",
+            "img": "http://images6.fanpop.com/image/photos/40900000/Lethal-Weapon-lethal-weapon-fox-40907008-1920-1080.jpg",
+            "resumo": "O cinquentenário Sargento Murtaugh (Damon Wayans, Sr.), da divisão de homicídios da polícia de Los Angeles, recebe um novo parceiro, o sargento Riggs (Clayne Crawford), da divisão de narcóticos da polícia do Texas, que começou a vida nas Forças Especiais do exército americano. Riggs é um jovem inconsequente, volátil e ligeiramente suicida que se mudou para Los Angeles para recomeçar a vida depois da morte de sua mulher e filho num acidente de carro, e não vai fazer bem ao coração frágil do quase aposentado Murtaugh."
+        },
+        {
+            "id": 8,
+            "name": "Marlon",
+            "img": "https://www.nbc.com/sites/nbcunbc/files/files/images/2018/6/06/Marlon-S2-KeyArt-Logo-Show-Tile-1920x1080.jpg",
+            "resumo": " Vagamente inspirado na vida real da estrela Marlon Wayans, essa atualização da clássica comédia familiar centra-se em um pai amoroso (mas imaturo) comprometido em co-parentear seus dois filhos com sua ex-esposa. Enquanto seu conselho paternal equivocado, personalidade irrefreável e um imprevisível estrelato da Internet podem atrapalhar as coisas, para Marlon, a família realmente sempre vem em primeiro lugar - mesmo que ele seja o maior garoto de todos."
+        },
+        {
+            "id": 9,
+            "name": "Arrow",
+            "img": "https://images7.alphacoders.com/317/thumb-1920-317172.jpg",
+            "resumo": "O jovem bilionário Oliver Queen é dado como morto após um grande naufrágio. Cinco anos depois, é encontrado com vida numa ilha remota do Oceano Pacífico. Quando volta para casa, em Starling City, Oliver secretamente cria o Arqueiro, um vigilante que luta contra os males da sociedade seguindo um código deixado por herança de seu pai, restaurando a antiga glória da cidade."
+        },
+        {
+            "id": 10,
+            "name": "Vikings",
+            "img": "https://images8.alphacoders.com/648/thumb-1920-648473.png",
+            "resumo": "A série criada por Michael Hirst apresenta a história de Ragnar Lothbrok, um jovem que se considera descendente de Odin. Ragnar é um guerreiro e fazendeiro casado com Lagertha, uma mulher que fabrica escudos, com quem tem dois filhos pequenos. Visionário e sonhador, Ragnar sonha viver diversas aventuras. Ele acredita que as riquezas desejadas pelo seu povo, encontram-se além do mar Báltico."
+        },
+        {
+            "id": 11,
+            "name": "Merlin",
+            "img": "https://images3.alphacoders.com/270/thumb-1920-270839.jpg",
+            "resumo": "A série conta a história do jovem Merlin que chega à cidade de Camelot, onde reina Uther Pendragon . Uther baniu toda a magia do reino e caçou até quase à extinção todos os dragões, aprisionando o último no seu castelo. Merlin torna-se aprendiz de Gaius, o físico da corte que descobre que Merlin é superdotado nas artes da magia. Torna-se então necessário proteger este segredo pois a magia é punida com a morte. Merlin começa então uma relação atribulada com o príncipe Artur, um jovem arrogante mas que necessita da sua ajuda para se tornar o tão conhecido Artur fundador de um reino onde a justiça impera e todos são vistos como iguais."
+        },
+        {
+            "id": 12,
+            "name": "The Ranch",
+            "img": "https://www.bolsamania.com/seriesadictos/wp-content/uploads/2017/06/the_ranch_2.jpg",
+            "resumo": "Ambientada num rancho do Colorado, The Ranch traz Ashton Kutcher como Colt, um jogador semiprofissional de futebol americano que volta do banco de reservas para ajudar a tocar a fazenda da família com seu irmão mais velho Jameson “Rooster” (Danny Masterson) e seu pai Beau (Sam Elliott), a quem ele não via há 15 anos. Debra Winger é Maggie, a mãe de Colt e Rooster e gerente do bar da cidade mais próxima."
+        },
+        {
+            "id": 13,
+            "name": "How I Met Your Mother",
+            "img": "https://images5.alphacoders.com/485/thumb-1920-485338.jpg",
+            "resumo": "Uma história de amor ao contrário, 'How I Met Your Mother' é uma original comédia sobre Ted (Rosh Radnor) e como ele se apaixonou. Quando os melhores amigos de Ted, Marshall (Jason Segel) e Lily (Alyson Hannigan) se decidem casar, isso incentiva-o a encontrar uma alma gémea para si. A ajudá-lo na sua busca está o seu amigo frequentador de bares, Barney (Neil Patrick Harris), um solteirão incorrigível com inúmeros esquemas para conhecer mulheres. A atenção de Ted está centrada na fascinante e independente Robin (Cobie Smulders), mas o destino pode ter algo diferente em mente. Narrado através de uma série de flashbacks, Ted recorda os seus dias de solteiro, os pontos altos e baixos dos encontros e a busca pelo amor verdadeiro."
+        },
+        {
+            "id": 14,
+            "name": "Wynonna Earp",
+            "img": "http://hdqwalls.com/wallpapers/wynonna-earp-season-3-2018-88.jpg",
+            "resumo": "Depois de anos de fuga e em detenção juvenil, Wynonna Earp está finalmente voltando para casa. O único problema é que ninguém em casa quer que ela volte. Mas quando ela se torna a única esperança da cidade de erradicar demônios misteriosos, Wynonna deve escolher de que lado da lei ela quer lutar, enquanto limpa o nome de seu lendário bisavô Wyatt Earp de uma vez por todas."
+        },
+        {
+            "id": 15,
+            "name": "Stranger Things",
+            "img": "https://images3.alphacoders.com/882/thumb-1920-882548.jpg",
+            "resumo": "Ambientada em Montauk, Long Island, conta a história de um menino que desaparece misteriosamente. Enquanto a polícia, a família e os amigos procuram respostas, eles acabam por mergulhar num extraordinário mistério, envolvendo experiências secretas do governo, forças sobrenaturais e uma menina muito, muito estranha."
+        },
+        {
+            "id": 16,
+            "name": "The Originals",
+            "img": "https://images6.alphacoders.com/658/thumb-1920-658462.jpg",
+            "resumo": "A série segue a história dos primeiros vampiros do mundo, os Originais, que voltam para Nova Orleães, cidade em que outrora foram muito felizes. Agora vêem-se presos numa guerra entre as comunidades sobrenaturais de vampiros, lobisomens e bruxas."
+        },
+        {
+            "id": 17,
+            "name": "The Rain",
+            "img": "http://image.tmdb.org/t/p/original//npLiH8akEMwkBaB7NLGmwnQAoMJ.jpg",
+            "resumo": "Seis anos após um vírus exterminar quase toda a população da Escandinávia, dois irmãos e um grupo de jovens sobreviventes partem em busca de segurança - e de respostas."
+        }
+    ]
+}
+
+

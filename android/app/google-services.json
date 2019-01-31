@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "806393427129",
+    "firebase_url": "https://tv-series-d5a8d.firebaseio.com",
+    "project_id": "tv-series-d5a8d",
+    "storage_bucket": "tv-series-d5a8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806393427129:android:08a592f765f38005",
+        "android_client_info": {
+          "package_name": "com.example.helloiane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806393427129-f6uofbld4iiqju7avqjio3uu7lqfnov0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoczBekqoYkhGSRDSV4ABkb34J3r8WWOI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806393427129:android:ab7ca761f58ca1ea",
+        "android_client_info": {
+          "package_name": "com.example.tvshows"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806393427129-f6uofbld4iiqju7avqjio3uu7lqfnov0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoczBekqoYkhGSRDSV4ABkb34J3r8WWOI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
